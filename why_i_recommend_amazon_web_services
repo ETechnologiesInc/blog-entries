@@ -1,0 +1,29 @@
+Why Amazon Web Services?
+
+The first and most obvious reason is cost savings.  Any way you look at it, you’re going to save money by having someone else manage “your servers”.  You save on hardware and personnel. It in the first installment we referenced a Booz Allen Study that showed a 50 - 75% cost reduction.
+
+That alone should get your attention.
+
+Now let’s turn to performance and technical reasons.  While it’s not as exciting, it will assist you at beating your competition.
+
+My  second favorite favorite reason is dynamic provisioning.  When you find your company needing more capacity, it’s trivial to expand your cloud resources.  
+
+When you are phasing out a particular application, you can dynamically decrease the resources. 
+
+No having to run out and buy servers (and more licenses); no being stuck with unused capacity.
+
+Dynamic provisioning is easy to use.  You turn on extra servers when you need them and turn them off when they are no longer needed.
+
+So, why Amazon when there are many cloud providers?  Well, Amazon has more servers in AWS (yes, Google has more hardware but it’s primarily Google’s hardware) than any other cloud provider. A Gartner survey determined that Amazon has approximately 90% of the existing public cloud capacity.  And, by the way, Gartner named Amazon the leader in Infrastructure As A Service (IaaS) 5 years running.
+
+Amazon has many locations, so you can set up failover if one data center temporarily goes down, or you can set your application up so that customers are served from the closest (in a network sense) computers to reduce latency and response time.
+
+There’s more though. Amazon offers dozens of services with more coming up all the time. It streamlines the process of setting up and conversion. It offers a secure platform. You can request different kinds of compliance such as HIPAA.
+
+Finally, Amazon has committed to going green with the attempt to reduce its carbon footprint to zero. All of this and more is why Amazon gets my vote.
+
+In the next few articles, I’ll be going over the different services and how to implement a successful  cloud based system. Stay tuned
+
+
+
+

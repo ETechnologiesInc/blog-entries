@@ -1,0 +1,47 @@
+Taking Advantage of AWS and Analytics
+
+This is the first in a series of articles about getting the most out of your IT budget.
+
+The Cloud
+
+"You have to spend money to make money".  This is an old business adage. However, when it comes to IT spending, where average cost*  is currently running at 5.2% of revenue, there are alternatives that can reduce costs;  and at the same time, get  the information needed to run your business efficiently and effectively.
+
+Marc Benioff, the CEO of SalesForce.com,  has shown 150,000 thousand companies how to reduce their software, hardware, and endless and frequently unwanted  software maintenance contracts by using  his public cloud-based CRM application. His company is a Wall Street darling, and his stock is selling at a whopping  70 times forward earnings!
+
+The line between private and public clouds is blurred.  For this discussion, we are considering public clouds to be applications that have multiple tenants like CRM and SalesForce, and private clouds to be virtualized servers as provided by AWS and other companies.
+
+Public cloud (multi-tenant)  applications work great for any general purpose solutions such as  CRM, payroll, and HR.  Savings can be as high as 75% over a 5 year period **.  However, many companies have unique business models and thus require that the  software that drives their business is unique to them.  These business models and the corresponding customized programming  is frequently what gives these companies their competitive edge.  These are part of what defines their businesses, and what makes them special to their customers.  
+
+Many of these  applications are for running the business or decision support. Among these are applications for business intelligence,  document  and content management,  analytical reporting, web based portals and stores. Properly designed, most of these will  run better in private clouds. 
+
+Multiple high profile surveys indicate and prove that private cloud based systems dramatically reduce the cost of IT infrastructure.  Booz, Allen, Hamilton did an exhaustive study for the US government and showed that private clouds reduce  costs by   50% .  While this is less than the 75% for public cloud systems, a 50% cost reduction is very hard to ignore, and explains the growth of companies in this space.
+
+With total worldwide IT spending of 3.5 Trillion dollars, this is very serious money and  a big market. It is also why Microsoft changed its direction from a software company to a cloud services company.
+
+Our point is that the savings that comes from hardware  economies of scale, as well as open source technologies, provide dramatically lower licensing and support fees.
+
+It is generally accepted (by investors) that AWS is the top cloud platform with Microsoft and Google fighting for 2nd place.  
+
+Please feel free to give me your vote on who will win that battle, but for now I‘ll  stick with the leader.
+
+The Marriage of Cloud and Analytics
+
+Companies either grow or die.  To grow increasing the top line of the balance sheet is imperative.   In a 2% GDP growth business environment, corporations  need more customers,  and  they need to get them to spend more money. They also need to  identify new business areas, find experienced people, and understand different cost structures.  
+
+With important data residing in multiple places and  not always  easily accessible,  analytics plays a most  important role because it can tell you what questions to ask, and find answers to questions  you didn’t think to ask.   This is the opposite of reporting, which usually  does not account for the unanticipated.
+
+Cloud Based Computing and Analytics are a natural marriage because they can together produce tangible results and intelligence. This still can be done on legacy systems,  and the data can be integrated from a variety of sources. It’s just that the  tools are more expensive, the hardware rapidly becomes sluggish for quantity of data that must be handled, and the cost becomes prohibitive.
+
+If you agree with the premises above, then you’ll want to evaluate the benefits of a cloud based based systems and analytics so you can continue  to trounce your competition.
+
+If you’re not a leader, then you will need to do this just to survive.
+
+Next: Paths to Take
+
+Part Two will explore exactly how to do this in a simple and straightforward manner. Stay tuned and send comments to john.nettuno@e-technologies.com
+
+
+* CIO Magazine 2013  IT cost survey
+
+** Booze Allen Hamilton, “The Economics of Cloud Computing” 
+
